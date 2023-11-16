@@ -30,7 +30,7 @@ public class App {
 
         switch(scanner.nextInt()){
             case 1: {
-                System.out.println("Digite a Temperatura em C");
+                System.out.println("Digite a temperatura em C");
                 double celsius = scanner.nextDouble();
                 ConversorDeTemperaturas conversorDeTemperaturas = new ConversorDeTemperaturas();
                 LocalDateTime start = LocalDateTime.now();
