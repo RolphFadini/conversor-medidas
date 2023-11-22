@@ -37,6 +37,10 @@
       <artifactId>logback-classic</artifactId>
       <version>1.4.11</version>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-surefire-plugin -->
+
+
+
 
 
   </dependencies>
