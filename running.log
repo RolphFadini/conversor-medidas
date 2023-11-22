@@ -1,0 +1,7 @@
+14:32:32.096 - 180  [main] INFO  br.com.infnet.App - Iniciando o Porgrama
+14:32:34.423 - 2507 [main] INFO  br.com.infnet.App - Inicio do calculo de conversão
+14:32:34.426 - 2510 [main] DEBUG br.com.infnet.App - Final do metodo de conversão com tempo: 0 MS para o valor: 12.0
+14:32:34.426 - 2510 [main] INFO  br.com.infnet.App - Finalizando o Porgrama
+14:34:40.446 - 186  [main] INFO  br.com.infnet.App - Iniciando o Porgrama
+14:34:43.139 - 2879 [main] ERROR br.com.infnet.App - Valor inválido para temperatura
+14:34:43.139 - 2879 [main] INFO  br.com.infnet.App - Finalizando o Porgrama
